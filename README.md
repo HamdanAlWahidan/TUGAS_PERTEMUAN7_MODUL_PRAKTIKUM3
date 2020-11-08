@@ -10,7 +10,7 @@ Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu dian
 ## TUGAS MODUL PRAKTIKUM 3
 ## LATIHAN 1
 
-![Latihan 1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Pertemuan7/latihan2.png) <br>
+![Latihan 1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7_MODUL_PRAKTIKUM3/blob/main/Modul%20Praktikum3/latihan1.png) <br>
 
 Di tugas ke dua, saya diminta untuk mencari nilai acak yang bernominal dibawah 0,5. Maka saya memasukan syntax:
 ```
@@ -26,7 +26,7 @@ for i in range(seed):
 
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
 
-![Foto Lat2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7/blob/main/Lab3/Lab3.png) <br>
+![Foto Lat2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7_MODUL_PRAKTIKUM3/blob/main/Modul%20Praktikum%203/Latihan1.png) <br>
 
 ___________________________________________________________________________________________________
 
